@@ -17,7 +17,7 @@ Visualization of Knight's Tour<br>
 The game is divided into two main parts:
 
 - **Create Route**: Users can create their own path for the knight, giving them the freedom to explore different strategies.
-- **Longest Route**: Discover and visualize the longest possible route a knight can take, given a starting position. The feature uses Warnsdorff's rule (a heuristic algorithm) to calculate the longest route.
+- **Longest Route**: Discover the longest possible route a knight can take, given a starting position. The feature uses Warnsdorff's rule (a heuristic algorithm) to calculate the longest route.
 
 Read more about Warnsdorff's rule here: [Warnsdorff's rule](https://en.wikipedia.org/wiki/Knight%27s_tour#Warnsdorff's_rule)
 
