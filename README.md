@@ -1,5 +1,5 @@
 # Knight's Tour
-This project was developed for my final examination during my programming course at KTH Royal Institute of Technology. It focuses on solving the Knight's Tour problem, a classic chessboard puzzle. 
+This project was created for my final examination during my programming course at KTH Royal Institute of Technology. It focuses on solving the Knight's Tour problem, a classic chessboard puzzle. 
 
 
 Find out more about the problem here: [Knight's tour](https://en.wikipedia.org/wiki/Knight%27s_tour)
